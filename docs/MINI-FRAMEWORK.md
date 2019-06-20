@@ -8,7 +8,7 @@ First clone the package into your home directory.
 
 
 ```
-git clone http://github.com/dimkir/nightmare-lambda-tutorial.git 
+git clone http://github.com/alexshin/nightmare-lambda-tutorial.git 
 cd nightmare-lambda-tutorial
 ```
 
